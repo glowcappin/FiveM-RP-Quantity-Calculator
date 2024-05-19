@@ -1,0 +1,15 @@
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\bin\Debug\FMItemCalculator.exe.config
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\bin\Debug\FMItemCalculator.exe
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\bin\Debug\FMItemCalculator.pdb
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.csproj.AssemblyReference.cache
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\App.g.cs
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator_MarkupCompile.cache
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator_MarkupCompile.lref
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\MainWindow.baml
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.g.resources
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.Properties.Resources.resources
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.csproj.GenerateResource.cache
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.exe
+C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Debug\FMItemCalculator.pdb
