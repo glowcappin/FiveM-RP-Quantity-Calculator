@@ -1,0 +1,40 @@
+﻿<Window x:Class="FMItemCalculator.settingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FMItemCalculator"
+        mc:Ignorable="d"
+        Title="Change Item Names" Height="374" Width="353" Style="{DynamicResource WindowStyle}" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="{DynamicResource DefaultBackground}" BorderBrush="{DynamicResource BackgroundOpaque}" ResizeMode="NoResize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Style.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="closeButton" Content="✕" Margin="327,-20,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="Black" Height="24" BorderBrush="#FF838383" HorizontalAlignment="Left" Width="24" Click="closeButton_Click"/>
+        <local:aTextBox x:Name="boxOne" HorizontalAlignment="Left" Margin="10,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 1"/>
+        <local:aTextBox x:Name="boxTwo" HorizontalAlignment="Left" Margin="10,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 2"/>
+        <local:aTextBox x:Name="boxThree" HorizontalAlignment="Left" Margin="10,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 3"/>
+        <local:aTextBox x:Name="boxFour" HorizontalAlignment="Left" Margin="10,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 4"/>
+        <local:aTextBox x:Name="boxFive" HorizontalAlignment="Left" Margin="10,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 5"/>
+        <local:aTextBox x:Name="boxSix" HorizontalAlignment="Left" Margin="10,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 6"/>
+        <local:aTextBox x:Name="boxSeven" HorizontalAlignment="Left" Margin="10,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 7"/>
+        <local:aTextBox x:Name="boxEight" HorizontalAlignment="Left" Margin="10,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 8"/>
+        <local:aTextBox x:Name="boxNine" HorizontalAlignment="Left" Margin="10,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 9"/>
+        <local:aTextBox x:Name="boxTen" HorizontalAlignment="Left" Margin="10,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="283" Height="26" HintText="Item 10"/>
+        <Button x:Name="saveConfig" Content="Save Config" HorizontalAlignment="Center" Margin="0,319,0,0" VerticalAlignment="Top" Width="331" Height="27" Background="{DynamicResource DefaultBackgroundOpacity}" Foreground="{DynamicResource DefaultColor}" Click="saveConfig_Click"/>
+        <local:aTextBox x:Name="onePrice" HorizontalAlignment="Left" Margin="298,9,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="twoPrice" HorizontalAlignment="Left" Margin="298,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="threePrice" HorizontalAlignment="Left" Margin="298,71,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="fourPrice" HorizontalAlignment="Left" Margin="298,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="fivePrice" HorizontalAlignment="Left" Margin="298,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="sixPrice" HorizontalAlignment="Left" Margin="298,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="sevenPrice" HorizontalAlignment="Left" Margin="298,195,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="eightPrice" HorizontalAlignment="Left" Margin="298,226,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="ninePrice" HorizontalAlignment="Left" Margin="298,257,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+        <local:aTextBox x:Name="tenPrice" HorizontalAlignment="Left" Margin="298,288,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="45" Height="26" HintText="$"/>
+    </Grid>
+</Window>

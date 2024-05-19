@@ -13,3 +13,13 @@ C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Release\FMItemC
 C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Release\FMItemCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Release\FMItemCalculator.exe
 C:\Users\Glow\source\repos\FMItemCalculator\FMItemCalculator\obj\Release\FMItemCalculator.pdb
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\FMItemCalculator.csproj.AssemblyReference.cache
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\MainWindow.g.cs
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\App.g.cs
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\FMItemCalculator_MarkupCompile.cache
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\FMItemCalculator_MarkupCompile.lref
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\FMItemCalculator.exe
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\FMItemCalculator.pdb
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\Style.g.cs
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\glowc\Documents\GitHub\FiveM-RP-Quantity-Calculator\FMItemCalculator\obj\Release\MainWindow.baml
