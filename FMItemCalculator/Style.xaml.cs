@@ -57,8 +57,17 @@ namespace FMItemCalculator
             if (t.IsFocused)
                 t.BorderBrush = new SolidColorBrush();
             Window win = Application.Current.Windows[0];
+            Window login = new MainWindow();
             ColorAnimation anim = new ColorAnimation();
-            anim.To = ((SolidColorBrush)((win as MainWindow).Resources[t.IsFocused ? "DefaultHighlightColor" : "BackgroundOpaque"])).Color;
+            if(win == null)
+            {
+                anim.To = ((SolidColorBrush)((login as MainWindow).Resources[t.IsFocused ? "DefaultHighlightColor" : "BackgroundOpaque"])).Color;
+            }
+            else
+            {
+                anim.To = ((SolidColorBrush)((win as MainWindow).Resources[t.IsFocused ? "DefaultHighlightColor" : "BackgroundOpaque"])).Color;
+            }
+            
             anim.Duration = TimeSpan.FromMilliseconds(400);
             t.BorderBrush.BeginAnimation(SolidColorBrush.ColorProperty, anim);
         }

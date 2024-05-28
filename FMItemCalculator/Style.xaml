@@ -6,7 +6,7 @@
     x:Class="FMItemCalculator.Style" 
     xmlns:local="clr-namespace:FMItemCalculator"
 >
-    <SolidColorBrush x:Key="DefaultColor"  Color="#FF325FCD"/>
+    <SolidColorBrush x:Key="DefaultColor"  Color="#FFFF7500"/>
     <SolidColorBrush x:Key="DefaultHighlightColor"  Color="#FF94C7FF"/>
     <SolidColorBrush x:Key="DefaultAccentColor"  Color="White"/>
 

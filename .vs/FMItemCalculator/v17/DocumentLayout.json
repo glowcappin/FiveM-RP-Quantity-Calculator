@@ -3,34 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FMItemCalculator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FMItemCalculator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\style.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\style.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\style.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\fmitemcalculator\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|solutionrelative:fmitemcalculator\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652F29C-F484-4C8B-8504-1D029EAC7C19}|FMItemCalculator\\FMItemCalculator.csproj|c:\\users\\glowc\\documents\\github\\fivem-rp-quantity-calculator\\fmitemcalculator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +52,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "settingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FMItemCalculator\\settingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml.cs",
+              "RelativeToolTip": "FMItemCalculator\\settingsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:51:16.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\App.xaml",
+              "RelativeDocumentMoniker": "FMItemCalculator\\App.xaml",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\App.xaml",
+              "RelativeToolTip": "FMItemCalculator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T20:42:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FMItemCalculator\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "FMItemCalculator\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:43:14.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "FMItemCalculator\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\LoginWindow.xaml",
+              "RelativeToolTip": "FMItemCalculator\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T20:38:58.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "settingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml",
+              "RelativeDocumentMoniker": "FMItemCalculator\\settingsWindow.xaml",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml",
+              "RelativeToolTip": "FMItemCalculator\\settingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T19:50:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FMItemCalculator",
               "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\FMItemCalculator.csproj",
               "RelativeDocumentMoniker": "FMItemCalculator\\FMItemCalculator.csproj",
@@ -56,65 +127,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Style.xaml.cs",
               "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml.cs",
               "RelativeDocumentMoniker": "FMItemCalculator\\Style.xaml.cs",
               "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml.cs",
               "RelativeToolTip": "FMItemCalculator\\Style.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAzwD0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T05:42:34.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T05:42:34.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FMItemCalculator\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\MainWindow.xaml.cs",
               "RelativeToolTip": "FMItemCalculator\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAgwH4AAAAwAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T04:44:33.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "settingsWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FMItemCalculator\\settingsWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml.cs",
-              "RelativeToolTip": "FMItemCalculator\\settingsWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T04:41:13.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Style.xaml",
-              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml",
-              "RelativeDocumentMoniker": "FMItemCalculator\\Style.xaml",
-              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml",
-              "RelativeToolTip": "FMItemCalculator\\Style.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-19T04:39:30.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "settingsWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml",
-              "RelativeDocumentMoniker": "FMItemCalculator\\settingsWindow.xaml",
-              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\settingsWindow.xaml",
-              "RelativeToolTip": "FMItemCalculator\\settingsWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-19T04:39:24.477Z",
               "EditorCaption": ""
             },
             {
@@ -127,6 +160,18 @@
               "RelativeToolTip": "FMItemCalculator\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-18T14:19:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Style.xaml",
+              "DocumentMoniker": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml",
+              "RelativeDocumentMoniker": "FMItemCalculator\\Style.xaml",
+              "ToolTip": "C:\\Users\\glowc\\Documents\\GitHub\\FiveM-RP-Quantity-Calculator\\FMItemCalculator\\Style.xaml",
+              "RelativeToolTip": "FMItemCalculator\\Style.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T04:39:30.826Z",
               "EditorCaption": ""
             }
           ]
